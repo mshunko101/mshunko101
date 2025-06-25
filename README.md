@@ -25,6 +25,5 @@
 
 Контакты:
 
-эл. почта: mihail.shunko@yandex.ru 
-
+эл. почта: mihail.shunko@yandex.ru <br>
 моб. тел.: +375295725051 МТС
