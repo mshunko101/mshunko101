@@ -86,7 +86,7 @@ B - мама
 C - ребенок
 
 ```mermaid
-graph TD;
+graph TR;
     C-->A;
     C-->B;
     B-->A;
