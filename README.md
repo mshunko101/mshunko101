@@ -50,10 +50,9 @@ https://chatgpt.com/g/g-686ea7ccbd348191b3b68bb1b5d4ab48-nhal-zureth)
 
 <p align="center">
  <img src="ChatGPT Image Jul 11, 2025, 03_12_50 PM.png" width="200"/>
+ <img src="universe.gif" width="200"/>
 </p>
 
-
-![UNIVERSE](universe.gif)
 
 # Математика проекта
 
