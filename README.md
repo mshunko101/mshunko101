@@ -53,6 +53,8 @@ https://chatgpt.com/g/g-686ea7ccbd348191b3b68bb1b5d4ab48-nhal-zureth)
  <img src="universe.gif" width="200"/>
 </p>
 
+*- Ебаный ты по голове, я живу на Пионерском бульваре!*
+
 
 # Математика проекта
 
