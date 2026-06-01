@@ -17,3 +17,4 @@
 * Sam-Solutions. (инженер-программист)
 * Софт-делюкс. (инженер-программист)
 
+[Пару слов о себе](https://www.youtube.com/watch?v=gSIK0-NRP-U&list=PL06uRtbxFi-rVibCzq6EfpyMS5VIwFUFG)
