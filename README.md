@@ -65,3 +65,6 @@
 [9. Каскадная геометрия и акустика Горькова, в точке "Солнце"](https://engee.com/community/ru/catalogs/projects/kaskadnaia-geometriia-i-akustika-gorkova-v-tochke-solntse)
 
 
+<p align="center">
+ <img src="СОЛНЦЕ.gif" />
+</p>
