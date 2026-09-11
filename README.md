@@ -60,7 +60,8 @@
 
 [8. Каскад и ОТО: ζ-порог как механизм замедления времени](https://engee.com/community/ru/catalogs/projects/kaskad-i-oto-z-porog-kak-mekhanizm-zamedleniia-vremeni)
 
- 
+[8a. ζ‑каскад: торможение и потеря формы](https://engee.com/community/ru/catalogs/projects/z-kaskad-tormozhenie-i-poteria-formy)
 
+[9. Каскадная геометрия и акустика Горькова, в точке "Солнце"](https://engee.com/community/ru/catalogs/projects/kaskadnaia-geometriia-i-akustika-gorkova-v-tochke-solntse)
 
 
