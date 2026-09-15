@@ -67,4 +67,4 @@
 
 # Портфолио
 
-[ГСПЧ perfect_random](https://github.com/mshunko101/perfect_random) [![Release](https://img.shields.io/github/v/release/MSHUNKO101/perfect_random)](https://github.com/MSHUNKO101/perfect_random/releases)[![License]
+[ГСПЧ perfect_random](https://github.com/mshunko101/perfect_random) [![Release](https://img.shields.io/github/v/release/MSHUNKO101/perfect_random)](https://github.com/MSHUNKO101/perfect_random/releases)
