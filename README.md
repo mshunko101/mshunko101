@@ -64,6 +64,11 @@
 
 [9. Каскадная геометрия и акустика Горькова, в точке "Солнце"](https://engee.com/community/ru/catalogs/projects/kaskadnaia-geometriia-i-akustika-gorkova-v-tochke-solntse)
 
+
+# Портфолио
+
+[ГСПЧ perfect_random](https://github.com/mshunko101/perfect_random) ![Speed: moderate](https://img.shields.io/badge/Speed-moderate-orange) ![Tests: passed](https://img.shields.io/badge/Tests-passed-brightgreen) ![C/C++](https://img.shields.io/badge/C%20%7C%20C%2B%2B-99%20%7C%2017-blue.svg) ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg) ![Header-only](https://img.shields.io/badge/Header--only-yes-success.svg)
+
 <p align="center">
  <img src="СОЛНЦЕ.gif" />
 </p>
